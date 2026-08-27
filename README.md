@@ -142,7 +142,7 @@ Hands-on experience with:
 
 ## 📫 Contact
 
-* 💼 [LinkedIn](www.linkedin.com/in/jiayi-zhao-251452430)
+* 💼 [LinkedIn](https://www.linkedin.com/in/jiayi-zhao-251452430/)
 * 📧 `jiayi.zhao@tum.de`
 
 I'm currently interested in **Robotics, Embedded Systems, Computer Vision, and Autonomous Systems** opportunities in Germany.
