@@ -133,7 +133,7 @@ Hands-on experience with:
 ## 🏆 Awards
 
 * 🥉 Third Prize — Chongqing University Engineering Practice and Innovation Competition, 2024
-* 🥈 Third Prize — Chongqing University Academic Excellence Scholarship
+* 🥉 Third Prize — Chongqing University Academic Excellence Scholarship
 * 🥈 Second Prize — Chongqing University Academic Excellence Scholarship
 * 🥉 Third Prize — Chongqing University “Jiangong Cup” Engineering Drawing Competition
 
