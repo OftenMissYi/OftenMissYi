@@ -50,17 +50,18 @@ STM32-based autonomous mobile robot developed as an Embedded Systems course proj
 
 ---
 
-### 🌊 Underwater Robot Project
+### 🌊 [Underwater Robot Project](https://github.com/OftenMissYi/Underwater-Robot-STM32F429)
 
-Robotic comprehensive practice project involving the design and implementation of an underwater robotic system.
+Embedded control system for an underwater robotic platform, combining real-time control, sensor integration and autonomous navigation.
 
-* Designed the MCU-based electrical control system
-* Implemented motion and gripper control
-* Integrated ROS-based visual tracking
-* Applied PID control for motion stabilization
-* Implemented A* and D* path planning
+* Developed MCU-based motion and gripper control
+* Implemented depth and attitude PID control
+* Integrated MS5837 depth sensing and HWT905/JY901 IMU
+* Used FreeRTOS for real-time task management
+* Implemented serial communication with a ROS-based higher-level system
+* Integrated autonomous control, visual tracking and A*/D* path-planning components
 
-**Tech:** `ROS` · `C++` · `PID` · `A*` · `D*` · `Computer Vision`
+**Tech:** `STM32F429` · `C` · `FreeRTOS` · `PID` · `ROS` · `A*` · `D*`
 
 ---
 
