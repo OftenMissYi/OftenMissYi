@@ -65,7 +65,20 @@ Embedded control system for an underwater robotic platform, combining real-time 
 
 ---
 
-### 👁️ Engineering Practice & Innovation Competition 2024
+### 🦿 Bionic Lower-Limb Exoskeleton Integrated Joint
+
+Design and performance analysis of an integrated actuator for a bionic lower-limb exoskeleton.
+
+* Designed an integrated joint drive unit
+* Performed motor selection and gearbox design
+* Conducted structural and performance analysis
+* Evaluated mechanical and drive-system characteristics
+
+**Tech:** `SolidWorks` · `ANSYS Workbench` · `Adams` · `Mechanical Design`
+
+---
+
+### 👁️ [Engineering Practice & Innovation Competition 2024](https://github.com/OftenMissYi/Engineering-Practice-Innovation-Competition-2024)
 
 University-level robotics competition project focused on autonomous robotic movement.
 
@@ -78,19 +91,6 @@ University-level robotics competition project focused on autonomous robotic move
 🏆 **Third Prize – Chongqing University**
 
 **Tech:** `C++` · `OpenCV` · `Computer Vision` · `Robot Control`
-
----
-
-### 🦿 Bionic Lower-Limb Exoskeleton Integrated Joint
-
-Design and performance analysis of an integrated actuator for a bionic lower-limb exoskeleton.
-
-* Designed an integrated joint drive unit
-* Performed motor selection and gearbox design
-* Conducted structural and performance analysis
-* Evaluated mechanical and drive-system characteristics
-
-**Tech:** `SolidWorks` · `ANSYS Workbench` · `Adams` · `Mechanical Design`
 
 ---
 
