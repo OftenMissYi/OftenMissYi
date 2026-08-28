@@ -33,7 +33,7 @@ Currently exploring:
 
 ---
 
-### 🦿 (Bionic Lower-Limb Exoskeleton Integrated Joint)[https://github.com/OftenMissYi/Bionic-Lower-Limb-Exoskeleton-Integrated-Joint]
+### 🦿 [Bionic Lower-Limb Exoskeleton Integrated Joint](https://github.com/OftenMissYi/Bionic-Lower-Limb-Exoskeleton-Integrated-Joint)
 
 Design and performance analysis of an integrated knee joint drive unit for a bionic lower-limb exoskeleton.
 
