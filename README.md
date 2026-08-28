@@ -33,20 +33,16 @@ Currently exploring:
 
 ---
 
-## 🚀 Selected Projects
+### 🦿 (Bionic Lower-Limb Exoskeleton Integrated Joint)[https://github.com/OftenMissYi/Bionic-Lower-Limb-Exoskeleton-Integrated-Joint]
 
-### 🤖 [Autonomous Mobile Robot – STM32](https://github.com/OftenMissYi/Autonomous-Mobile-Robot-STM32)
+Design and performance analysis of an integrated knee joint drive unit for a bionic lower-limb exoskeleton.
 
-STM32-based autonomous mobile robot developed as an Embedded Systems course project.
+* Designed an integrated knee joint actuator combining a BLDC motor, planetary gearbox and torque sensing
+* Developed a single-stage planetary gearbox and performed transmission parameter design
+* Designed the mechanical structure and integrated the drive unit into an existing exoskeleton
+* Conducted finite element and multibody dynamics simulations to evaluate structural and dynamic performance
 
-* Implemented motor control and PWM-based motion control
-* Developed ultrasonic obstacle detection and avoidance
-* Implemented Bluetooth serial communication
-* Designed an ASCII-based command protocol
-* Integrated a JQ8900-16P audio module as an additional feature
-* Focused on reliable peripheral integration and stable real-time behavior
-
-**Tech:** `STM32` · `C` · `Embedded Systems` · `PWM` · `UART` · `Bluetooth`
+**Tech:** `SolidWorks` · `ANSYS Workbench` · `MSC Adams` · `Planetary Gearbox` · `Mechanical Design`
 
 ---
 
@@ -65,16 +61,20 @@ Embedded control system for an underwater robotic platform, combining real-time 
 
 ---
 
-### 🦿 Bionic Lower-Limb Exoskeleton Integrated Joint
+## 🚀 Selected Projects
 
-Design and performance analysis of an integrated actuator for a bionic lower-limb exoskeleton.
+### 🤖 [Autonomous Mobile Robot – STM32](https://github.com/OftenMissYi/Autonomous-Mobile-Robot-STM32)
 
-* Designed an integrated joint drive unit
-* Performed motor selection and gearbox design
-* Conducted structural and performance analysis
-* Evaluated mechanical and drive-system characteristics
+STM32-based autonomous mobile robot developed as an Embedded Systems course project.
 
-**Tech:** `SolidWorks` · `ANSYS Workbench` · `Adams` · `Mechanical Design`
+* Implemented motor control and PWM-based motion control
+* Developed ultrasonic obstacle detection and avoidance
+* Implemented Bluetooth serial communication
+* Designed an ASCII-based command protocol
+* Integrated a JQ8900-16P audio module as an additional feature
+* Focused on reliable peripheral integration and stable real-time behavior
+
+**Tech:** `STM32` · `C` · `Embedded Systems` · `PWM` · `UART` · `Bluetooth`
 
 ---
 
