@@ -33,6 +33,8 @@ Currently exploring:
 
 ---
 
+## 🚀 Selected Projects
+
 ### 🦿 [Bionic Lower-Limb Exoskeleton Integrated Joint](https://github.com/OftenMissYi/Bionic-Lower-Limb-Exoskeleton-Integrated-Joint)
 
 Design and performance analysis of an integrated knee joint drive unit for a bionic lower-limb exoskeleton.
@@ -60,8 +62,6 @@ Embedded control system for an underwater robotic platform, combining real-time 
 **Tech:** `STM32F429` · `C` · `FreeRTOS` · `PID` · `ROS` · `A*` · `D*`
 
 ---
-
-## 🚀 Selected Projects
 
 ### 🤖 [Autonomous Mobile Robot – STM32](https://github.com/OftenMissYi/Autonomous-Mobile-Robot-STM32)
 
