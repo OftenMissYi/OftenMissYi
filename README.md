@@ -142,6 +142,7 @@ Hands-on experience with:
 
 ## 📫 Contact
 
+* 🌐 [Portfolio](https://oftenmissyi.github.io/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/jiayi-zhao-251452430/)
 * 📧 `jiayi.zhao@tum.de`
 
