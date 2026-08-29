@@ -50,7 +50,7 @@ Design and performance analysis of an integrated knee joint drive unit for a bio
 
 ### 🌊 [Underwater Robot Project](https://github.com/OftenMissYi/Underwater-Robot-STM32F429)
 
-Embedded control system for an underwater robotic platform, combining real-time control, sensor integration and autonomous navigation.
+Electrical and embedded control system for an underwater robotic platform, integrating system architecture, onboard hardware, real-time control, sensor feedback and autonomous navigation.
 
 * Developed MCU-based motion and gripper control
 * Implemented depth and attitude PID control
