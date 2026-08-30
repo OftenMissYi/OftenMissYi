@@ -48,6 +48,19 @@ Design and performance analysis of an integrated knee joint drive unit for a bio
 
 ---
 
+### 🚁 [UAV Path Planning & Trajectory Control](https://github.com/OftenMissYi/UAV-Path-Planning-and-Trajectory-Control)
+
+UAV path planning, trajectory generation and control developed through a multi-stage MATLAB project.
+
+* Implemented and evaluated A* and Theta* for 3D path planning
+* Developed custom path-planning strategies for complex environments
+* Generated smooth Minimum-Snap trajectories using polynomial optimization
+* Implemented PID-based trajectory tracking and evaluated system performance
+
+**Tech:** `MATLAB` · `A*` · `Theta*` · `Minimum-Snap` · `QP` · `PID` · `Trajectory Planning`
+
+---
+
 ### 🌊 [Underwater Robot Project](https://github.com/OftenMissYi/Underwater-Robot-STM32F429)
 
 Electrical and embedded control system for an underwater robotic platform, integrating system architecture, onboard hardware, real-time control, sensor feedback and autonomous navigation.
@@ -63,18 +76,16 @@ Electrical and embedded control system for an underwater robotic platform, integ
 
 ---
 
-### 🤖 [Autonomous Mobile Robot – STM32](https://github.com/OftenMissYi/Autonomous-Mobile-Robot-STM32)
+### 🛰️ [ROS Autonomous Robot – SwiftPicker](https://github.com/OftenMissYi/ROS-Autonomous-Robot-SwiftPicker)
 
-STM32-based autonomous mobile robot developed as an Embedded Systems course project.
+ROS-based autonomous mobile manipulator integrating perception, mapping, navigation and manipulation in simulation.
 
-* Implemented motor control and PWM-based motion control
-* Developed ultrasonic obstacle detection and avoidance
-* Implemented Bluetooth serial communication
-* Designed an ASCII-based command protocol
-* Integrated a JQ8900-16P audio module as an additional feature
-* Focused on reliable peripheral integration and stable real-time behavior
+* Integrated LiDAR and visual perception for environmental sensing
+* Implemented SLAM and autonomous navigation in Gazebo/RViz
+* Developed motion planning with MoveIt! for a 6-DOF manipulator
+* Integrated mobile navigation and robotic manipulation for autonomous task execution
 
-**Tech:** `STM32` · `C` · `Embedded Systems` · `PWM` · `UART` · `Bluetooth`
+**Tech:** `ROS` · `Gazebo` · `RViz` · `LiDAR` · `SLAM` · `MoveIt!` · `6-DOF Manipulation`
 
 ---
 
